@@ -1,12 +1,12 @@
 ---
 layout: base
-title: I'm [Rohit]
+title: I'm Rohit
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is [Sri Rohit Varma Datla].
+Hi! My name is Sri Rohit Varma Datla.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
