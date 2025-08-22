@@ -98,17 +98,19 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is my life journey
 
-- ✈️ Came From India and adapted to life quikly here
+- ✈️ Came From India and adapted to life quickly here
 - 🏫 Homeschooled For Tk and whent to many different preschools
 - 🏢 Flew to orgean because dad got a job at Mercedes
-- ⛪ Had 1 grade in Elmonica, Oregon, Portland
-- 💼 Flew Back to sandiego
-- ✈️ My Dad got called back to qualcomm GPU unit.
+- ⛪ Did 1st grade in Elmonica, Oregon, Portland
+- 💼 Flew Back to San Diego
+- ✈️ My Dad got called back to Qualcomm GPU unit
 - 💼 Lived in Mira Mesa for 2 years
-- 🎒Went to shcool
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- 🎒 Went to shcool in Ericson elmentry
+- 👨‍🏫 Went to Montery Ridge for 4th Grade
+- 🎒 Later on went to D39c For 5th and the rest of middle school
+- 🦅 Finaaly I am doing my Highschool in Del Norte Highschool
 
 ### Culture, Family, and Fun
 
