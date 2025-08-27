@@ -112,13 +112,12 @@ Here is my life journey
 - 🎒 Later on went to D39c For 5th and the rest of middle school
 - 🦅 Finaaly I am doing my Highschool in Del Norte Highschool
 
-### Culture, Family, and Fun
+### What I like
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me, revolves around Nature, and trveling
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- My mother told me that I was South Inidan.
+- The gallery of pics has some of my picture Iv'e taken
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
