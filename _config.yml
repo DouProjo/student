@@ -5,7 +5,7 @@ github_username: DouProjo
 github_repo: "student" 
 baseurl: "/student" 
 future: true
-remote_theme: pages-themes/hacker
+remote_theme: pages-themes/hacker@v0.2.0
 minima:
   skin: dark
   social_links:
